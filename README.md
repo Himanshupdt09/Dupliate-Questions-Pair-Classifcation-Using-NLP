@@ -38,14 +38,12 @@ The data is then fed into a **RandomForest Classifier**, which achieved an accur
 
 ## Installation
 
-To run the project locally, follow these steps:
+To run the project locally:
 
-1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/duplicate-question-pairs-classification.git
+   git clone https://github.com/Himanshupdt09/Duplicate-Questions-Pair-Classification-Using-NLP.git
    cd duplicate-question-pairs-classification
-2.Install the required Python packages using pip:
-  ```bash pip install spacy nltk scikit-learn pandas numpy matplotlib seaborn beautifulsoup4 fuzzywuzzy
+    pip install spacy nltk scikit-learn pandas numpy matplotlib seaborn beautifulsoup4 fuzzywuzzy
 
 ## Results
 
