@@ -46,7 +46,8 @@ To run the project locally, follow these steps:
    cd duplicate-question-pairs-classification
 
  2.Install the required Python packages using pip:
-   pip install spacy nltk scikit-learn pandas numpy matplotlib seaborn beautifulsoup4 fuzzywuzzy
+  ```bash
+  pip install spacy nltk scikit-learn pandas numpy matplotlib seaborn beautifulsoup4 fuzzywuzzy
 
 ## Results
 
