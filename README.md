@@ -36,15 +36,6 @@ The text of both questions is represented using the **Bag of Words** technique, 
 
 The data is then fed into a **RandomForest Classifier**, which achieved an accuracy of **80.32%**.
 
-## Installation
-
-To run the project locally:
-
-   ```bash
-   git clone https://github.com/Himanshupdt09/Duplicate-Questions-Pair-Classification-Using-NLP.git
-   cd duplicate-question-pairs-classification
-   pip install spacy nltk scikit-learn pandas numpy matplotlib seaborn beautifulsoup4 fuzzywuzzy
-
 ## Results
 
 The RandomForest Classifier achieved an accuracy of **80.32%** on the test set. Future improvements could include experimenting with different models or refining feature engineering techniques.
