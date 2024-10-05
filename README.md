@@ -44,7 +44,8 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/duplicate-question-pairs-classification.git
    cd duplicate-question-pairs-classification
-   pip install spacy nltk scikit-learn pandas numpy matplotlib seaborn beautifulsoup4 fuzzywuzzy
+2.Install the required Python packages using pip:
+  ```bash pip install spacy nltk scikit-learn pandas numpy matplotlib seaborn beautifulsoup4 fuzzywuzzy
 
 ## Results
 
